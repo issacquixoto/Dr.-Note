@@ -1,0 +1,23 @@
+{
+  "name": "Dr.note",
+  "version": "1.0.0",
+  "description": "Dr.note bate",
+  "private": true,
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-sass": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "time-grunt": "1.*"
+  },
+  "dependencies": {
+    "chosen-js": "^1.8.0",
+    "dropzone": "4.*",
+    "flatpickr": "^3.0.7",
+    "jquery": "2.*",
+    "jquery-validation": "1.*",
+    "jscolor-picker": "2.*",
+    "moment": "2.*",
+    "slick-carousel": "^1.7.1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-4": {"Dr.note\\": "src"}
+    },
+    "require": {
+        "smarty/smarty": "^3.1.0",
+        "caseyamcl/configula": "^2.3.0",
+        "jstayton/miner": "^0.10.0",
+        "klein/klein": "^2.0",
+        "respect/validation": "^1.0",
+        "instantjay/emailphp": "1.*",
+        "intervention/image": "2.*",
+        "egulias/email-validator": "2.*",
+        "doctrine/orm": "2.*",
+        "symfony/http-foundation": "3.*"
+    }
+}
