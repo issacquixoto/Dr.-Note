@@ -4,20 +4,20 @@
   "description": "Dr.note bate",
   "private": true,
   "devDependencies": {
-    "grunt": "*",
-    "grunt-sass": "*",
-    "grunt-contrib-uglify": "*",
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^3.3.0",
     "grunt-contrib-watch": "*",
+    "grunt-sass": "*",
     "time-grunt": "1.*"
   },
   "dependencies": {
-    "chosen-js": "^1.8.0",
-    "dropzone": "4.*",
-    "flatpickr": "^3.0.7",
-    "jquery": "2.*",
-    "jquery-validation": "1.*",
-    "jscolor-picker": "2.*",
-    "moment": "2.*",
-    "slick-carousel": "^1.7.1"
+    "chosen-js": "^1.8.2",
+    "dropzone": "^4.3.0",
+    "flatpickr": "^3.1.5",
+    "jquery": "^2.2.4",
+    "jquery-validation": "^1.17.0",
+    "jscolor-picker": "^2.0.4",
+    "moment": "^2.20.1",
+    "slick-carousel": "^1.8.1"
   }
 }
